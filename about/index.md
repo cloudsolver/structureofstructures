@@ -7,6 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Hi! My name is Rohit Sood.
+ I have been a hacker, coder, software engineer, solution architect, technologist, enterprise architect, Chief IT Architect and head of Architecture in my career. I have also co-founded a tech startup that delivered IoT technology to drive real-time business decisions.

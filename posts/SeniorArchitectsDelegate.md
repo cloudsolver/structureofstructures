@@ -7,12 +7,14 @@ tags:
   - leadership
   - architecture
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+image: https://cdn.pixabay.com/photo/2020/01/20/11/51/startup-4780150_1280.jpg
 ---
 
- I espouse a personal philosophy that says if a decision can reasonably be made by someone with a more narrow scope of responsibility, defer the decision to that person or group. Trust, but verify. Review. Review. Review. Ask open ended questions and have an open channel of communicating early red flags. And then hold the team accountable to see through the results of the decision into a tangible deliverable.
+ I espouse a personal philosophy that says <h4>if a decision can reasonably be made by someone with a more narrow scope of responsibility, defer the decision to that person or group. </h4>
+ 
+ Trust, but verify. Review. Review. Review. Ask open ended questions and have an open channel of communicating early red flags. And then hold the team accountable to see through the results of the decision into a tangible deliverable.
 
-![An image](https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg)
+![Architect Must Engage Engineers](https://cdn.pixabay.com/photo/2020/01/20/11/51/startup-4780150_1280.jpg)
 
 The key strategy and skill for senior architects to practeic is delegation. 
 
